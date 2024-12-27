@@ -756,9 +756,8 @@ a {
 }
 
 .appointment .body .appointment-btn {
-  padding: 15px 41px;
+  padding: 15px;
   margin: 0px 482px 100px 482px;
-  text-align: center;
 }
 /* footer */
 .footer {
