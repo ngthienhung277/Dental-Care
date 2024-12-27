@@ -491,7 +491,7 @@ a {
 
 .doctors-list {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: no-wrap;
   gap: 30px;
   margin-bottom: 38px;
 }
